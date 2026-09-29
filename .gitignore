@@ -1,0 +1,11 @@
+*.iso
+*.vmdk
+*.pcap
+*.mem
+*.dmp
+.env
+*.pem
+id_rsa*
+id_ed25519*
+*.log
+*.pyc
